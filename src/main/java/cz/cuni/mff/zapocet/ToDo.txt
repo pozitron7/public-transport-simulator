@@ -1,0 +1,1 @@
+- implement time specnd on stops and add its calculation to route lenght idealy each stop should have some expected time set for itself

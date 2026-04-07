@@ -1,0 +1,1 @@
+public record VehicleModeTypeRecord(VehicleTypes type, String model) {}

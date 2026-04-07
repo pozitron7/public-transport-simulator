@@ -1,0 +1,1 @@
+public record Route(Place from, Place to) {}
